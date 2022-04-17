@@ -34,7 +34,3 @@ I have been coding for two years. Currently in my second year of a BSc (Honours)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DevAranCarter"><img src="https://github-readme-stats.vercel.app/api?username=DevAranCarter&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DevAranCarter's GitHub stats" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/DevinCarter"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

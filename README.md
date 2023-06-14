@@ -7,7 +7,6 @@ Software developer and student
 I have been coding for two years. Currently in my second year of a BSc (Honours) at the Open University
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [devinacarter97@gmail.com](mailto:devinacarter97@gmail.com)
 * 🚀  I'm currently working on [NoMoreWaste](http://github.com/jannikuhl/NoMoreWaste) and [Phantom-dapp](https://github.com/felwintrr/fantom-dapp)
 * 🤝  I'm open to collaborating on projects to better humanity
 

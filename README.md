@@ -4,7 +4,7 @@ Hi 👋 My name is Devin Carter
 Software developer and student
 ------------------------------
 
-I have been coding for two years. Currently in my second year of a BSc (Honours) at the Open University
+I have been coding for Four years. Currently in my final year of a BSc (Honours) at the Open University
 
 * 🌍  I'm based in London
 * 🚀  I'm currently working on [NoMoreWaste](http://github.com/jannikuhl/NoMoreWaste) and [Phantom-dapp](https://github.com/felwintrr/fantom-dapp)
